@@ -63,4 +63,5 @@ This methd adds a default callback to execute if there is no route assigned to t
 #### setDefault - Params [Function - callback to be executed when the id of the body does nott match any route]
 
 # License
+
 hydrajs-router-plugin is licensed under MIT license. (see LICENSE file)
