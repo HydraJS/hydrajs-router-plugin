@@ -1,0 +1,8 @@
+{
+  "name": "hydrajs-router-plugin",
+  "repo": "HydraJS/hydrajs-router-plugin",
+  "description": "Hydra.js plugin to execute the specified callback when the url changes.",
+  "version": "1.0.0",
+  "scripts": ["versions/hydrajs-router-plugin.min.js"],
+  "main": "versions/hydrajs-router-plugin.min.js"
+}
